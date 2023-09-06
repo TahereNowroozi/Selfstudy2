@@ -7,6 +7,7 @@ public class Selfstudy2 {
              int b = 2;
              int c = a/b;
              System.out.println(c);
+//this changes from remote repo.
 
 
 	}
